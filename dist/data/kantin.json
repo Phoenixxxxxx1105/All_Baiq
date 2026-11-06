@@ -1,0 +1,9 @@
+[
+  { "id": "M01", "nama": "Nasi Ayam", "kategori": "Makanan", "harga": 18000, "stok": 8 },
+  { "id": "M02", "nama": "Mie Goreng", "kategori": "Makanan", "harga": 15000, "stok": 6 },
+  { "id": "M03", "nama": "Roti Bakar", "kategori": "Makanan", "harga": 12000, "stok": 4 },
+  { "id": "M04", "nama": "Es Teh", "kategori": "Minuman", "harga": 5000, "stok": 10 },
+  { "id": "M05", "nama": "Kopi Susu", "kategori": "Minuman", "harga": 10000, "stok": 0 },
+  { "id": "M06", "nama": "Jus Jeruk", "kategori": "Minuman", "harga": 8000, "stok": 5 }
+]
+
